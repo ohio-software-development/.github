@@ -9,15 +9,16 @@ add any other info you believe should be in here
 
 We're (OUSDC), a club focused on providing a means for software developers to work on projects in a friendly, team-oriented environment.
 
-To contribute to our projects, come join the club! We meet every Monday at 6:00 PM in the Botanical Research Center. Once you join we can give you access to the GitHub Organization where you can join teams and gain access to our repositories.
+To contribute to our projects, come join the club! We meet every Monday at 6:00 PM in the Academic Research Center (ARC 121). Once you join we can give you access to the GitHub Organization where you can join teams and gain access to our repositories.
 
 All of our info can currently be found on this page, however in the future our info can be found at our [GitHub Pages site](https://ohio-software-development.github.io/)
 
 
 ## Meeting Information
-Mondays at 6:00 PM in the Botanical Research Center room 202.  
-We can be found halfway up Morton Hill, the building is also known as the Greenhouse building.
-<img width="1073" alt="Campus Map" src="https://github.com/ohio-software-development/.github/assets/57198128/3276ddf9-e783-43cc-a573-9e3be43fcaef">
+Mondays at 6:00 PM in ARC 121.  
+<p align="center">
+<img width="850" alt="Screenshot 2023-09-11 at 2 11 53 PM" src="https://github.com/ohio-software-development/.github/assets/57198128/e41077f7-0c71-4c86-b4ed-fd8bf7142d1b">
+</p>
 <p align="center">The red circle is the Botanical Research Center.  </p>
 
 ## Where to start??
