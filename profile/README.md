@@ -19,7 +19,7 @@ Mondays at 6:00 PM in ARC 121.
 <p align="center">
 <img width="850" alt="Screenshot 2023-09-11 at 2 11 53 PM" src="https://github.com/ohio-software-development/.github/assets/57198128/e41077f7-0c71-4c86-b4ed-fd8bf7142d1b">
 </p>
-<p align="center">The red circle is the Botanical Research Center.  </p>
+<p align="center">The red circle is the Academic Research Center.  </p>
 
 ## Where to start??
 <b>Unsure of where to start and would like some help?</b><li>Come to the meetings or shoot us an email! :)</li>
