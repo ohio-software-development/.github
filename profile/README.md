@@ -11,7 +11,7 @@ We're (OUSDC), a club focused on providing a means for software developers to wo
 
 To contribute to our projects, come join the club! We meet every Monday at 6:00 PM in the Academic Research Center (ARC 121). Once you join we can give you access to the GitHub Organization where you can join teams and gain access to our repositories.
 
-All of our info can currently be found on this page, however in the future our info can be found at our [GitHub Pages site](https://ohio-software-development.github.io/)
+Checkout our website! -> [GitHub Pages site](https://ohio-software-development.github.io/)
 
 
 ## Meeting Information
