@@ -15,7 +15,7 @@ Checkout our website! -> [GitHub Pages site](https://ohio-software-development.g
 
 
 ## Meeting Information
-Mondays at 6:00 PM in ARC 121.  
+Mondays at 6:00 PM in ARC 212.  
 <p align="center">
 <img width="850" alt="Screenshot 2023-09-11 at 2 11 53 PM" src="https://github.com/ohio-software-development/.github/assets/57198128/e41077f7-0c71-4c86-b4ed-fd8bf7142d1b">
 </p>
